@@ -4,7 +4,7 @@
     <property name="created">2017-07-25T12:14:44</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-07-25T12:17:30</property>
+    <property name="modified">2017-07-25T13:02:57</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -595,7 +595,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="85b5c7" />
+        <option name="FOREGROUND" value="69a5c7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -673,7 +673,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="95dbb5" />
+        <option name="FOREGROUND" value="64dba2" />
       </value>
     </option>
     <option name="PY.STRING.B">
@@ -683,7 +683,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="a3d29f" />
+        <option name="FOREGROUND" value="afe1aa" />
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
