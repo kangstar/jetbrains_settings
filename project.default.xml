@@ -1,0 +1,158 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Desktop/stockplus_securities_collector" value="1444181987000" />
+            <entry key="$USER_HOME$/Downloads/kakao-stock-websocket-master-20c50b7a9c14ef5013594f4b52d24e004e16b758" value="1497848022000" />
+            <entry key="$USER_HOME$/git/ccx_gateway" value="1497342479000" />
+            <entry key="$USER_HOME$/git/kakao_securities_aggregator" value="1446639121000" />
+            <entry key="$USER_HOME$/git/quotation" value="23367306180000" />
+            <entry key="$USER_HOME$/git/realtime_front_withsockjs" value="1497850484000" />
+            <entry key="$USER_HOME$/git/securities_quotes_einfomix_gateway" value="1466586603000" />
+            <entry key="$USER_HOME$/git/securities_quotes_gateway" value="1438336378000" />
+            <entry key="$USER_HOME$/git/securities_quotes_kafka" value="2878874869000" />
+            <entry key="$USER_HOME$/git/securities_quotes_parser" value="1440136404000" />
+            <entry key="$USER_HOME$/git/spring-integration-samples" value="2933190824000" />
+            <entry key="$USER_HOME$/git/springdemo" value="1467095433000" />
+            <entry key="$USER_HOME$/git/stockplus_realtime_front" value="1441275841000" />
+            <entry key="$USER_HOME$/git/stockplus_realtime_publisher" value="1439433921000" />
+            <entry key="$USER_HOME$/git/stockplus_recent_security" value="1438567225000" />
+            <entry key="$USER_HOME$/git/stockplus_securities_model" value="1440151600000" />
+            <entry key="$USER_HOME$/git/stockplus_snapshot" value="1434607229000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Downloads/kafka-web-console-master" value="1405062676000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
