@@ -1,14 +1,17 @@
 <scheme name="Ladies Night 2 copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-08T18:24:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-04-04T12:07:58</property>
+    <property name="modified">2017-07-25T11:57:31</property>
     <property name="originalScheme">Ladies Night 2</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -466,7 +469,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b24fcb" />
@@ -580,6 +582,18 @@
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e4e387" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="4cd656" />
+      </value>
+    </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
