@@ -1,11 +1,11 @@
-<scheme name="Ladies Night 2 copy" version="142" parent_scheme="Default">
+<scheme name="kangstar" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-02-08T18:24:48</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-07-25T12:09:06</property>
-    <property name="originalScheme">Ladies Night 2</property>
+    <property name="created">2017-07-25T12:14:44</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2017.1.5.0.0</property>
+    <property name="modified">2017-07-25T13:02:57</property>
+    <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="13" />
@@ -595,7 +595,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="85b5c7" />
+        <option name="FOREGROUND" value="69a5c7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -671,6 +671,11 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="64dba2" />
+      </value>
+    </option>
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="4cd656" />
@@ -678,7 +683,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="409556" />
+        <option name="FOREGROUND" value="afe1aa" />
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
