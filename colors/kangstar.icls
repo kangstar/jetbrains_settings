@@ -1,10 +1,9 @@
 <scheme name="kangstar" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-07-25T12:14:44</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-08-03T11:35:19</property>
+    <property name="modified">2017-08-04T14:32:32</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -468,6 +467,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b24fcb" />
@@ -814,10 +814,7 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
