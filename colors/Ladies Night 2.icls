@@ -1,8 +1,9 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -459,7 +460,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b24fcb" />
@@ -574,6 +574,27 @@
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value />
+    </option>
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="37a4de" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="53c5ff" />
+      </value>
+    </option>
+    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="RUBY_PARAMETER_ID">
+      <value>
+        <option name="FOREGROUND" value="e4c077" />
+      </value>
     </option>
     <option name="SCOPE_KEY_All">
       <value />
