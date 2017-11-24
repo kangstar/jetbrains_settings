@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="kakao_securities_aggregator" type="PLAIN_TEXT" />
       <mapping pattern="crix_gateway" type="PLAIN_TEXT" />
+      <mapping pattern="kakao_securities_aggregator" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="crix_gateway.yml" type="PLAIN_TEXT" />
+      <mapping pattern="hosts_for_aws" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
