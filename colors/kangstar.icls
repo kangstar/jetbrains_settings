@@ -4,14 +4,13 @@
     <property name="created">2017-07-25T12:14:44</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-09-13T16:24:39</property>
+    <property name="modified">2018-08-24T14:10:12</property>
     <property name="originalScheme">Ladies Night 2 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.05" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -468,7 +467,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b24fcb" />
