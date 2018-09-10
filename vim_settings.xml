@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Codes/kubekube/upbit/crix-prod/ns-crix/recipes2/realtime-front-sockjs.yaml" timestamp="1536548678491" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
