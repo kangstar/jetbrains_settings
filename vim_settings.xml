@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/Codes/kubekube/upbit/crix-prod/ns-crix/recipes2/realtime-front-sockjs.yaml" timestamp="1536730418096" />
       <file name="$USER_HOME$/Codes/kubekube/upbit/crix-prod/ns-crix/recipes2/batch.yaml" timestamp="1536730468676" />
+      <file name="$USER_HOME$/Codes/kubekube/upbit/crix-prod/ns-crix/recipes2/realtime-front-socket.yaml" timestamp="1536735953577">
+        <mark key="[" line="150" column="16" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
